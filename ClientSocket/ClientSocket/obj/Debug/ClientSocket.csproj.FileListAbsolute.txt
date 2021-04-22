@@ -1,0 +1,11 @@
+C:\Users\Aleksandr.Gontar\Desktop\MVS\C#\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe.config
+C:\Users\Aleksandr.Gontar\Desktop\MVS\C#\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe
+C:\Users\Aleksandr.Gontar\Desktop\MVS\C#\ClientSocket\ClientSocket\bin\Debug\ClientSocket.pdb
+C:\Users\Aleksandr.Gontar\Desktop\MVS\C#\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csprojAssemblyReference.cache
+C:\Users\Aleksandr.Gontar\Desktop\MVS\C#\ClientSocket\ClientSocket\obj\Debug\ClientSocket.Form1.resources
+C:\Users\Aleksandr.Gontar\Desktop\MVS\C#\ClientSocket\ClientSocket\obj\Debug\ClientSocket.Properties.Resources.resources
+C:\Users\Aleksandr.Gontar\Desktop\MVS\C#\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csproj.GenerateResource.cache
+C:\Users\Aleksandr.Gontar\Desktop\MVS\C#\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr.Gontar\Desktop\MVS\C#\ClientSocket\ClientSocket\obj\Debug\ClientSocket.exe
+C:\Users\Aleksandr.Gontar\Desktop\MVS\C#\ClientSocket\ClientSocket\obj\Debug\ClientSocket.pdb
+C:\Users\Aleksandr.Gontar\Desktop\MVS\C#\ClientSocket\ClientSocket\obj\Debug\ClientSocket.Serial.resources
